@@ -32,6 +32,3 @@ Skills: React.js / Next.js / JavaScript (ES6+)  / HTML5 / CSS3 / Tailwind CSS  /
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranparvez64&show_icons=true&locale=en&layout=compact" alt="imranparvez64" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imranparvez64&show_icons=true&locale=en" alt="imranparvez64" /></p>
