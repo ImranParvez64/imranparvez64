@@ -35,11 +35,10 @@ Currently, I’m improving my frontend skills by building real projects and lear
 - 💬 Ask me about React & Next.js 
 
 ### ⚡ Featured Projects  
-- **React Projects:** [React & Routing Projects](https://github.com/Shazzedshuvo/React-and-react-routingProjact)  
-- **YouTube AI Projects:** [TechMastery Hub](https://www.youtube.com/@dontworry4200)  
-- **E-commerce Web Apps:** [T-Shop Express](https://github.com/Shazzedshuvo/T-Shirt-Express)  
-- **Portfolio Website:** [Personal Portfolio](https://github.com/Shazzedshuvo/PortfolioSite)  
-- **Mini Projects:** [Mini React Projects](https://github.com/Shazzedshuvo/Mini-React-Projects)
+- **React Projects:** [React & Routing Projects](https://github.com/ImranParvez64/Edu-Mall)  
+- **E-commerce Web Apps:** [T-Shop Express](https://github.com/ImranParvez64/daily-hut.git)  
+- **Portfolio Website:** [Personal Portfolio](https://github.com/ImranParvez64/parvez-porfolio.git)  
+- **Mini Projects:** [Mini React Projects](https://github.com/ImranParvez64/Dev-Board-JS-.git)
 
 ---
 
