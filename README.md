@@ -34,6 +34,30 @@ Currently, I’m improving my frontend skills by building real projects and lear
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about React & Next.js 
 
+### ⚡ Featured Projects  
+- **React Projects:** [React & Routing Projects](https://github.com/Shazzedshuvo/React-and-react-routingProjact)  
+- **YouTube AI Projects:** [TechMastery Hub](https://www.youtube.com/@dontworry4200)  
+- **E-commerce Web Apps:** [T-Shop Express](https://github.com/Shazzedshuvo/T-Shirt-Express)  
+- **Portfolio Website:** [Personal Portfolio](https://github.com/Shazzedshuvo/PortfolioSite)  
+- **Mini Projects:** [Mini React Projects](https://github.com/Shazzedshuvo/Mini-React-Projects)
+
+---
+
+### 🏆 Skills Progress  
+- **React.js:** 90% ██████████░░░░░  
+- **Next.js:** 85% █████████░░░░░░  
+- **Node.js & Express:** 80% ████████░░░░░░  
+- **MongoDB:** 75% ███████░░░░░░░  
+- **Tailwind CSS:** 80% ████████░░░░░░  
+- **JavaScript (ES6+):** 95% ██████████░░░  
+
+---
+
+### 🎯 Fun Facts  
+- I’ve built **10+ full-stack projects**  
+- Love exploring **AI tools & automation scripts**  
+- I’m a **self-taught developer** with 2+ years experience  
+- You can find me **live streaming coding sessions** on YouTube  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
