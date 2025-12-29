@@ -13,15 +13,10 @@ Currently, I’m improving my frontend skills by building real projects and lear
 Skills: React.js / Next.js / JavaScript (ES6+)  / HTML5 / CSS3 / Tailwind CSS  / Responsive Web Design  / REST API Integration
 
 
-
-
 - 🔭 I’m currently working on Edunexi 
 - 🌱 I’m currently learning Advanced React  & Next.js Performance & SEO 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about React & Next.js 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ImranParvez64)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/imranparvez964//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ParvezHasan964)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/ImranParve55964)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://imranparvez-porfolio.vercel.app/)  
 
 
 <h3 align="left">Connect with me:</h3>
