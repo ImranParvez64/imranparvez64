@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Imran Parvez
+# Hi there 👋, my name is Imran Parvez
 #### FRONTEND DEVELOPER (MERN Stack)
-![Full Stack Web Developer (MERN Stack)](https://i.ibb.co.com/sdcdCv0H/Imran-parvez.png)
+![Full Stack Web Developer (MERN Stack)](https://i.ibb.co.com/VW5QcC9x/Imran-parvez-1.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranparvez64&label=Profile%20views&color=0e75b6&style=flat" alt="imranparvez64" /> </p>
 
 I’m Imran Parvez, a Frontend Developer who enjoys building clean, responsive, and user-friendly web interfaces.
