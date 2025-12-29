@@ -36,7 +36,7 @@ Currently, I’m improving my frontend skills by building real projects and lear
 
 ### ⚡ Featured Projects  
 - **React Projects:** [React & Routing Projects](https://github.com/ImranParvez64/Edu-Mall)  
-- **E-commerce Web Apps:** [T-Shop Express](https://github.com/ImranParvez64/daily-hut.git)  
+- **E-commerce Web Apps:** [Daily Hut](https://github.com/ImranParvez64/daily-hut.git)  
 - **Portfolio Website:** [Personal Portfolio](https://github.com/ImranParvez64/parvez-porfolio.git)  
 - **Mini Projects:** [Mini React Projects](https://github.com/ImranParvez64/Dev-Board-JS-.git)
 
